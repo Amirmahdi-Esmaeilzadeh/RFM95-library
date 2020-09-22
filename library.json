@@ -1,11 +1,11 @@
 {
-  "name": "LiquidCrystal_I2C",
-  "keywords": "LCD, liquidcrystal, I2C",
-  "description": "A library for DFRobot I2C LCD displays",
+  "name": "RFM95",
+  "keywords": "RFM95,LoRa,LoRaWan",
+  "description": "A library forRFM95 loRa displays",
   "repository":
   {
     "type": "git",
-    "url": "https://github.com/amirmahdi-boom/pushbutton_library"
+    "url": "https://github.com/amirmahdi-boom/RFM95_library"
   },
   "frameworks": "arduino",
   "platforms":
